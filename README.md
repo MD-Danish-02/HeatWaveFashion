@@ -84,7 +84,7 @@ yarn dev
 Open your browser and navigate to http://localhost:5173 (or the port indicated in your terminal).
 
 #💡Usage
-# Navigation: Use the top navigation bar to browse different sections like Home, Shop, Blog, About, and Contact.
+Navigation: Use the top navigation bar to browse different sections like Home, Shop, Blog, About, and Contact.
 
 Mobile Menu: On smaller screens, the navigation transforms into a responsive menu accessible via the hamburger icon.
 
