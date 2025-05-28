@@ -44,6 +44,13 @@ Welcome to **HeatWave Fashion**, a modern, responsive e-commerce platform that d
 - **Nominatim (OpenStreetMap)** – Reverse geolocation
 - **Google OAuth (Firebase)** – Social login authentication
 
+### 🧑‍💻 User Guide
+🌐 Navigation
+Use the top navbar to browse between pages: Home, Shop, Blog, About, and Contact.
+
+### 📱 Mobile Experience
+- Tap the hamburger menu icon to expand the mobile navigation drawer.
+
 ---
 
 ## 🚀 Getting Started
@@ -58,9 +65,4 @@ git clone https://github.com/MD-Danish-02/HeatWaveFashion
 cd ecommerce-frontend
 npm install    # or yarn install
 
-### 🧑‍💻 User Guide
-🌐 Navigation
-Use the top navbar to browse between pages: Home, Shop, Blog, About, and Contact.
 
-### 📱 Mobile Experience
-- Tap the hamburger menu icon to expand the mobile navigation drawer.
