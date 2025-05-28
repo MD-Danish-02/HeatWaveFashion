@@ -39,6 +39,13 @@ Welcome to **HeatWave Fashion**, a modern, responsive e-commerce platform that d
 - **Tailwind CSS** – Utility-first modern UI styling
 - **Lucide React** – Clean and customizable icons
 
+### 🧩 Backend
+- **Node.js** – JavaScript runtime for server-side logic
+- **Express.js** – Lightweight framework for routing and API handling
+- **JWT (JSON Web Token)** – Secure token-based user authentication
+- **Mongoose** – Elegant MongoDB object modeling for handling data
+
+
 ### 🌐 APIs & Integrations
 - **Open-Meteo API** – Real-time weather forecast
 - **Nominatim (OpenStreetMap)** – Reverse geolocation
@@ -51,19 +58,19 @@ Use the top navbar to browse between pages: Home, Shop, Blog, About, and Contact
 ### 📱 Mobile Experience
 - Tap the hamburger menu icon to expand the mobile navigation drawer.
 
-👕 Product Interaction
+### 👕 Product Interaction
 - Click on any product card to view details.
 
 - Select product size and color before adding to cart.
 
 - Use the cart icon to view and manage cart items.
 
-🔐 Authentication
+### 🔐 Authentication
 - Click Login to sign in or create an account.
 
 - You can also sign in with Google for quicker access.
 
-☁️ Weather Widget
+### ☁️ Weather Widget
 - The current temperature and your location appear in the top-right of the navbar.
 
 - Weather updates dynamically based on your location via the Open-Meteo API.
