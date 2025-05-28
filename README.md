@@ -2,7 +2,7 @@
 
 Welcome to HeatWave Fashion, a modern and responsive e-commerce platform designed to provide a seamless shopping experience. Discover the latest trends, top-selling products, and enjoy a personalized journey with features like real-time weather updates, a robust shopping cart, and secure authentication.
 
-✨ # Features
+✨ # Features:
 🛍 Product Showcase:
 
 New Arrivals: Stay ahead of the curve with a dedicated section showcasing the latest additions to our collection.
