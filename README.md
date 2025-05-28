@@ -75,6 +75,12 @@ Welcome to **HeatWave Fashion**, a modern, responsive e-commerce platform that d
 
 ---
 
+## 🤝 Contributing
+- Contributions are welcome! If you have suggestions for improvements, new features, or bug fixes, please open an issue or submit a pull request.
+
+## 📄 License
+- This project is licensed under the MIT License.
+
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
