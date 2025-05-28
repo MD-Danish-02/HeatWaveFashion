@@ -1,4 +1,5 @@
-readme file : HeatWave Fashion - Your Ultimate Style Destination
+#HeatWave Fashion - Your Ultimate Style Destination
+
 Welcome to HeatWave Fashion, a modern and responsive e-commerce platform designed to provide a seamless shopping experience. Discover the latest trends, top-selling products, and enjoy a personalized journey with features like real-time weather updates, a robust shopping cart, and secure authentication.
 
 ✨ Features
