@@ -1,4 +1,4 @@
-# HeatWave Fashion - Your Ultimate Style Destination
+# README: HeatWave Fashion - Your Ultimate Style Destination
 
 Welcome to HeatWave Fashion, a modern and responsive e-commerce platform designed to provide a seamless shopping experience. Discover the latest trends, top-selling products, and enjoy a personalized journey with features like real-time weather updates, a robust shopping cart, and secure authentication.
 
@@ -83,7 +83,8 @@ yarn dev
 
 Open your browser and navigate to http://localhost:5173 (or the port indicated in your terminal).
 
-#💡Usage:
+#💡Usage
+
 Navigation: Use the top navigation bar to browse different sections like Home, Shop, Blog, About, and Contact.
 
 Mobile Menu: On smaller screens, the navigation transforms into a responsive menu accessible via the hamburger icon.
