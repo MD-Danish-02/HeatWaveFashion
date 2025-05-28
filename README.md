@@ -54,6 +54,6 @@ Welcome to **HeatWave Fashion**, a modern, responsive e-commerce platform that d
 
 ### 📥 Installation
 ```bash
-git clone <repository-url>
+git clone <https://github.com/MD-Danish-02/HeatWaveFashion>
 cd ecommerce-frontend
 npm install    # or yarn install
