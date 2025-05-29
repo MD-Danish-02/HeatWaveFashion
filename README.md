@@ -1,4 +1,4 @@
-# 🔥 HeatWave Fashion - Your Ultimate Style Destination
+# HeatWave Fashion - Your Ultimate Style Destination
  **Live Website:** [https://heatwavefashion.sbs](https://heatwavefashion.sbs)
 
 Welcome to **HeatWave Fashion**, a modern, responsive e-commerce platform that delivers a smooth and stylish shopping experience. Featuring real-time weather updates, secure login options, and a fully responsive design, it’s crafted for the future of online shopping.
